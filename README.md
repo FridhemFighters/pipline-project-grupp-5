@@ -4,4 +4,5 @@
 * Här är Lasses namn i README-filen.
 * Här är en extra rad.
 * Det känns bra att bara nr 1
+* Här är en ytterligare en ny rad
 
